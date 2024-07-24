@@ -160,3 +160,5 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+/100_Days_of_Code/Intermediate+/Day 33 - Kanye quotes/background.png
+/100_Days_of_Code/Intermediate+/Day 33 - Kanye quotes/kanye.png
