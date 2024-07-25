@@ -17,8 +17,8 @@ Identify & Define the Problem with Business Analysis [Udemy](https://www.udemy.c
 Process Flowcharts & Process Mapping - The Advanced Guide [Udemy](https://www.udemy.com/course/advanced-process-flowcharts/)
 
 **International Compliance Association** <br>
-- ICA Specialist Certificate in Financial Crime Risk in Global Banking and Markets [ICA](https://www.int-comp.org/courses/ica-specialist-certificate-in-financial-crime-risk-in-global-banking-and-markets/)
-- ICA Advanced Certificate in Anti Money Laundering [ICA](https://www.int-comp.org/courses/ica-advanced-certificate-in-anti-money-laundering/)
+ICA Specialist Certificate in Financial Crime Risk in Global Banking and Markets [ICA](https://www.int-comp.org/courses/ica-specialist-certificate-in-financial-crime-risk-in-global-banking-and-markets/)
+ICA Advanced Certificate in Anti Money Laundering [ICA](https://www.int-comp.org/courses/ica-advanced-certificate-in-anti-money-laundering/)
 
 
 ------ Being updated.
