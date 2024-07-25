@@ -15,6 +15,7 @@ ICA Specialist Certificate in Financial Crime Risk in Global Banking and Markets
 ICA Advanced Certificate in Anti Money Laundering [ICA](https://www.int-comp.org/courses/ica-advanced-certificate-in-anti-money-laundering/)
 
 **Project Management**<br>
+Project Management Basics - An Official PMI Online Course [PMI](https://www.pmi.org/shop/p-/elearning/project-management-basics---an-official-pmi-online-course/16125)<br>
 Project Management Fundamentals [Udemy](https://www.udemy.com/course/project-management-fundamentals-gantt/)
 
 **Data Analyst**<br>
