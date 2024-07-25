@@ -2,7 +2,7 @@
 List of courses that I have completed
 
 **Python**<br>
-100 Days of Code: The Complete Python Pro Bootcamp  [Udemy](https://www.udemy.com/course/100-days-of-code/).
+100 Days of Code: The Complete Python Pro Bootcamp  [Udemy](https://www.udemy.com/course/100-days-of-code/)<br>
 Natural Language Processing [Udacity](https://www.udacity.com/enrollment/nd892)
 
 **International Compliance Association** <br>
