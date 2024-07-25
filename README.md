@@ -6,6 +6,8 @@ List of courses that I have completed
 Natural Language Processing [Udacity](https://www.udacity.com/enrollment/nd892)<br>
 A/B Testing in Python [Udemy](https://www.udemy.com/course/ab-testing-in-python/)<br>
 Python A-Z™: Python For Data Science With Real Exercises! [Udemy](https://www.udemy.com/course/python-coding/)<br>
+Deep Learning and Neural Networks for Financial Engineering [edX](https://learning.edx.org/course/course-v1:NYUx+FEEDX7774+2T2020/home)<br>
+Classical Machine Learning for Financial Engineering [edX](https://learning.edx.org/course/course-v1:NYUx+FEEDX7773+3T2020/home)
 
 **Ethics**<br>
 Artificial Intelligence Ethics Certification [Udemy](https://www.udemy.com/course/aiethics/)
@@ -19,6 +21,7 @@ Project Management Basics - An Official PMI Online Course [PMI](https://www.pmi.
 Project Management Fundamentals [Udemy](https://www.udemy.com/course/project-management-fundamentals-gantt/)
 
 **Data Analyst**<br>
+Introduction to Big Data [Coursera](https://www.coursera.org/learn/big-data-introduction/)<br>
 Identify & Define the Problem with Business Analysis [Udemy](https://www.udemy.com/course/identify-the-problem/)<br>
 Process Flowcharts & Process Mapping - The Advanced Guide [Udemy](https://www.udemy.com/course/advanced-process-flowcharts/)<br>
 Colors for Data Science A-Z: Data Visualization Color Theory [Udemy](https://www.udemy.com/course/colordata/)
