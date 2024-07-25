@@ -35,5 +35,5 @@ Unlock Excel VBA and Excel Macros [Udemy](https://www.udemy.com/course/excel-vba
 
 ------ Being updated.
 
-##License
+## License
 Distributed under the MIT License. See [LICENSE](https://github.com/irini-git/courses/blob/main/LICENSE) for more information.
